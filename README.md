@@ -15,3 +15,4 @@ Esta linea representa el primer commit por GitHub Desktop
 
 Esta linea representa un commit por termianl en la carpeta Git para ejercitar git pull en GitHub Desktop
 
+Esta representa el uso de SourceControl para manejo de repositorio con Visual Studio Code 
