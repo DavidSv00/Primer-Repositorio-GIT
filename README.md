@@ -13,5 +13,5 @@ Esta linea representa el segundo commit por terminal a un repositorio remoto en 
 
 Esta linea representa el primer commit por GitHub Desktop
 
-Esta linea representa un commit por termianl en la carpeta Git para ejercitar git pull en GitHub Desktop
+Esta linea representa un commit por terminal en la carpeta Git para ejercitar git pull en GitHub Desktop
 
